@@ -40,7 +40,7 @@
 Укажем локализацию и часовой пояс в файле settings.py
 
     LANGUAGE_CODE = 'ru-ru'
-    TIME_ZONE = 'Europe/Minsk'
+    TIME_ZONE = 'Europe/Moscow'
 
 Добавим папку шаблонов в settings.py
 
